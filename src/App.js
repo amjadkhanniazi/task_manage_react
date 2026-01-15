@@ -218,7 +218,7 @@ import SignUpForm from './components/sign-up-form'
 import TaskForm from './components/task-form'
 import LoadingSpinner from './components/loading-spinner'
 
-const API_BASE_URL = 'https://task-management-mocha-iota.vercel.app'
+const API_BASE_URL = 'https://task-manage-sigma-sepia.vercel.app'
 
 export default function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(false)
